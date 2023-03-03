@@ -5,7 +5,7 @@ export fibonacci
 """
     fibonacci(n)
 
-Compute the nth Fibonacci number, as BigInt.
+Compute the nth Fibonacci number, as `BigInt`.
 
 # Examples
 ```jldoctest
